@@ -8,4 +8,5 @@ separaat aangesloten te worden ! Dit is gedaan om de max. 500mA die de centrale 
 alleen te gebruiken voor direct spoor gerelateerde zaken zoals o.a. terugmelding en sturing. De 5VDC kan b.v. 
 onttrokken worden van een 5VDC ringleiding welke ook voor diverse andere gebruikers is. (b.v. MobaLedLib) 
 Het plaatsen van de componenten dient volgens schema (stuklijst) op de speciaal voor dit project gemaakte PCB, 
-welke tevens een fraaie frontplaat is, in de hierna aangegeven volgorde voor een goede
+welke tevens een fraaie frontplaat is, in de hierna aangegeven volgorde voor een goede en juiste werking. De 
+gebruikte componenten zijn hoofdzakelijk SMD (Surface Mount Device) onderdelen. 
